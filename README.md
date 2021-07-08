@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-Welcome to my profile!! 👯 😄 😄 . Feel free to explore stuff here.
+Welcome to my profile!! 👯 😄 😄 . Feel free to explore stuff here. If you're enthused by **_Vim_**, you might learn something on [this repository](https://github.com/johnmutuma5/vim-editor).
 
 I am based in Nairobi, Kenya, where I live with my spouse and 2 lovely daughters 👨‍👩‍👧‍👧
 
