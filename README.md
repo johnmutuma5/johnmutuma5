@@ -11,7 +11,7 @@ I am based in Nairobi, Kenya, where I live with my spouse and 2 lovely daughters
 - ⚡   Fun fact: I have been lost a lot while trying to find myself:
   -  _I skipped my 2nd and half of 3rd years in high school, and went to be pool/billiard table attendant_
   -  _I worked through an unfulfilling banking career for 4 years before realizing that software engineering is my right place._ 👨🏽‍💻 
-- 💬  Chat with me about fatherhood, roadtrips _(cars, motorbikes, etc.)_, growing succulents _(disclaimer)_
+- 💬  Chat with me about fatherhood, roadtrips _(cars, motorbikes, etc.)_, growing succulents _(disclaimer)_, Bible stories
 - 😄  Pronouns: He/Him/His
 
 
