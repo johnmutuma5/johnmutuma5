@@ -4,7 +4,7 @@ Welcome to my profile!! 👯 😄 😄 . Feel free to explore stuff here. If you
 
 I am based in Nairobi, Kenya, where I live with my spouse and 2 lovely daughters 👨‍👩‍👧‍👧
 
-- 🔭    I’m currently working on People Experiences across M365 Microsoft web and mobile products
+- 🔭    I’m currently working with Microsoft focusing on People Experiences across M365 Microsoft web and mobile products
 - 🌱    I’m currently learning native mobile apps development
 - 📫    How to reach me: johnmutuma5@gmail.com
 - ⚡     Fun fact: I have been lost a lot while trying to find myself:
