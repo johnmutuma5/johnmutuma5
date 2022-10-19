@@ -2,7 +2,7 @@
 
 Welcome to my profile!! 👯 😄 😄 . Feel free to explore stuff here. If you're enthused by **_Vim/NeoVim_** and **_tmux_**, you might pick something from [this repository](https://github.com/johnmutuma5/vim-editor).
 
-I am based in Nairobi, Kenya, where I live with my spouse and 2 lovely daughters 👨‍👩‍👧‍👧
+I am based in Nairobi, Kenya, where I live with my spouse and our 3 kids.
 
 - 🔭    I’m currently working at Microsoft focusing on People Experiences across M365 Microsoft web and mobile products
 - 🌱    I’m currently learning native mobile apps development
